@@ -12,7 +12,7 @@ My research interests include bias mitigation in MBRL and its evaluation on MuJo
 You can reach me at syam[dot]21csz0018[at]iitrpr[dot]ac[dot]in or locate me in [SARAS](https://www.cse.iitrpr.ac.in) Lab, IIT Ropar.
 
 ## News
-- **27-03-2024** Presented a poster on *'Sim2Real Policy Transfer'* at SYNTACS'25, IIT Ropar.
+- **27-03-2025** Presented a poster on *'Sim2Real Policy Transfer'* at SYNTACS'25, IIT Ropar.
 - **03-12-2024** Started my internship at RBCDSAI, IIT Madras.
 - **27-03-2024** Delivered a talk on *'Safe Model-based RL'* at SYNTACS'24, IIT Ropar.
 - **03-01-2024** Attended CODSCOMAD'24 at Bangalore, India to present our paper *'Model-based Safe Reinforcement Learning using Variable Horizon Rollouts'*.
