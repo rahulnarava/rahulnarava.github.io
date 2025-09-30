@@ -5,18 +5,15 @@ permalink: /exp/
 author_profile: true
 ---
 
-### Research Intern at Google Brain, UK  (Oct 2022 - Jan 2023) <br/>
-Proposed novel techniques and dimensions for evaluating LLMs for code generation.
- As a side-project, created and coded a prototype of text-to-video generation application to fuel the imagination and creativity of kids, which won the Special mention award at `London Hack Week' <br/>
-### Research Intern at Google, India (May 2021 - Sep 2021) <br/>
-Modelled native language influences on acquired languages to address new-age queries from users of diverse backgrounds. This work is live in production at Google and published at ACL-23.<br/>
-### Project Officer, IIT Madras, India (Dec 2018 - Jan 2019)<br/>
-Led a funded project to formulate better dialogue evaluation models and dialogue datasets.<br/>
-### Research Intern, Nvidia, India (Mar 2018 - Nov 2018) <br/>
-Developed techniques to identify vulnerabilities and shortcomings of the existing learnable models used for evaluation of dialogue agents and AI chatbots. (published at AAAI-19) <br/>
-### Software Engineer, Cisco Systems, India (Aug 2015 - June 2016)<br/>
-Created a data model to enable coordinating large set of routers centrally in the OSPF routing protocol. Improved the network failure-detection ability of RCMD (Route Convergence Monitoring and Diagnostics) <br/>
+### Research Intern at RBCDSAI, IIT Madras  (Dec 2024 - Jan 2025) <br/>
+Refined and formalized thesis research problem through discussions with Prof. Balaraman Ravindran and lab members.
+Delivered a research talk and received constructive feedback, leading to new research directions.
+
+### RL Community Lead, Cohere Labs (July 2023 - Present)<br/>
+Curated and hosted Reinforcement Learning (RL) sessions by inviting guest speakers and researchers.
+Coordinated event logistics and content to deliver engaging RL programming.
+Led RL study groups and paper reading sessions to foster collaborative learning.
 
 # Conference Duties
-- Reviewer for ACL 2023, AAAI 2022, ACL 2020, AAAI 2019 
-- Volunteered to organize ĲCAI 2018, ICLR 2020 (virtual), AAAI 2021 (virtual), ACL 2022, ACL 2023
+- Reviewer for AAAI'25&26, AAMAS'25, IJCAI'24, ECAI'24&25 
+- Volunteered to organize SYNTACS'24&25
